@@ -14,7 +14,7 @@ By developing a deep understanding of the business environment,Microsoft can ide
 - Top Performing Studios also using Production vs Revenue
 - What are the Target Key Demographics
 ## Stakeholders
-- Investora and shareholders
+- Investors and shareholders
 - Product Development Teams
 # Data Analysis and Visualization
 Data Analysis will be a pivotal aspect of Microsoft's movie studio project,this will help in enabling the extraction of actionable insights to inform strategic decisions and drive performance optimization. Also Data Visualization will play a crucial role in Microsoft's Movie studio project allowing stakeholders to understand complex data quickly and make informed decisions
