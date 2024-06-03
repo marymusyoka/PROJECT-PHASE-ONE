@@ -19,26 +19,34 @@ By developing a deep understanding of the business environment,Microsoft can ide
 # Data Analysis and Visualization
 Data Analysis will be a pivotal aspect of Microsoft's movie studio project,this will help in enabling the extraction of actionable insights to inform strategic decisions and drive performance optimization. Also Data Visualization will play a crucial role in Microsoft's Movie studio project allowing stakeholders to understand complex data quickly and make informed decisions
 1. Profitability Analysis
-This will help to determine the best earning movies globaly and locally
+- This will help to determine the best earning movies globaly and locally
+- It will help us determine which movies are performing better
 ## Visualization
-Bar plot
+- Bar plot
+By using bar plot stackholders will have clear view of which movies are performing well.
+
 2. Top most Performing Movie Studios Based on Domestic Gross 
-We will use bar graph also
+For this we will be able to show which studios are performing well locally by using the domestic gross and advise accordingly on the best studios to produce with.
+## Visualization
+- Bar Plots
+They are easy to understand to everyone will be at per with what the plot is all about 
+This will give stackeholders clear view of which studios to consider when producing movies.
 3. Years with the highest Number of Release and Popularity
+- We will be able to focus on the relationship between popularity and movie release.
 ## Visualization
-Scatter plot and Bar plot
+- Scatter plot and Bar plot
+Scatter plot will give use a better understanding of the correlation between each movie release ,we will mainly focus on value count popularit and average count .
+
 4. Budget vs .Box office performance
+- We will be able to advise stackholders on how much to spend on production since high budget does not alwasy mean high return . We will explain this to using Return on Investment analysis and profitability analysis.
 ## Visualization
-Bar plot
-5. Distribution of best performing studios
+- Bar plot
+We make use of bar plots again because they are simple to understand
+5. Reviews
+ Reviews from rotten reviews will help in determing how movies are reviewed by audience and focus on what should be done to have positive reveiws
 ## Visualization 
-Bar plots
-6. Yearly Trends
-## Visualization
-Bar Plots
-7. Reviews
-## Visualization 
-sns count plots
+- sns count plots
+sns count plots will be used to show different reviews accross box office
 
 By conducting this visualization and analysis as per the project we will be able to give stackholders accessible insights,facilitate understanding,enhancing decision -making and to improve communication. By presenting information graphically it will allow stakeholders to quickly grasp trends,patterns and outliers,enabling more informed and timely decision.
 # Recommedations
